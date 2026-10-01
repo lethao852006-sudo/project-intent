@@ -1,9 +1,9 @@
-package com.example.intent_2415141122120
+package com.example.btintent
 
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.intent_2415141122120.databinding.ActivityMainBinding
+import com.example.btintent.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
