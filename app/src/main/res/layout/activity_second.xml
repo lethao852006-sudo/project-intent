@@ -13,48 +13,37 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="MÀN HÌNH 1"
+            android:text="MÀN HÌNH 2"
             android:textSize="26sp"
             android:textStyle="bold"
             android:layout_marginBottom="30dp" />
 
         <TextView
-            android:id="@+id/tvHoTen"
+            android:id="@+id/tvNhanHoTen"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Họ tên: Lê Thị Minh Thảo"
             android:textSize="18sp"
             android:layout_marginBottom="15dp" />
 
         <TextView
-            android:id="@+id/tvMssv"
+            android:id="@+id/tvNhanMssv"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="MSSV: 2415141122120"
             android:textSize="18sp"
             android:layout_marginBottom="15dp" />
 
         <TextView
-            android:id="@+id/tvTuoi"
+            android:id="@+id/tvNhanTuoi"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Tuổi: 20"
-            android:textSize="18sp"
-            android:layout_marginBottom="15dp" />
-
-        <TextView
-            android:id="@+id/tvKhoa"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Khoa: Công nghệ thông tin"
             android:textSize="18sp"
             android:layout_marginBottom="30dp" />
 
         <Button
-            android:id="@+id/btnGuiThongTin"
+            android:id="@+id/btnQuayLai"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="GỬI THÔNG TIN" />
+            android:text="QUAY LẠI" />
 
     </LinearLayout>
 
